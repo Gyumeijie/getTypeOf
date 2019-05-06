@@ -8,6 +8,21 @@
 $ npm install @gyumeijie/get-type-of
 ```
 
+## API
+
+```typescript
+getTypeOf(obj: any, detail?: boolean, typeCase?: string): string
+```
+obj: 
+> object to get type of
+
+detail: 
+> get the more detailed information about the type, mainly for customized types, 
+> the default value is **false**
+
+typeCase: 
+> set the case of the output type string, the default value is ***lower***
+
 ## Usage
 
 ```js
