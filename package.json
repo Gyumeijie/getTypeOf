@@ -1,0 +1,32 @@
+{
+  "name": "@gyumeijie/get-type-of",
+  "version": "1.0.0",
+  "description": "get the type of a javascript value",
+  "keywords": [
+    "type",
+    "type-of",
+    "typeof",
+    "get-type-of"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "gyumeijie",
+    "email": "18170879819@163.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gyumeijie/getTypeOf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gyumeijie/getTypeOf/issues"
+  },
+  "homepage": "https://github.com/Gyumeijie/getTypeOf#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.4",
+    "jest": "24.7.1"
+  }
+}
